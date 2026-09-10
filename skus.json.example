@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Cloud Identity Premium",
+    "productId": "101005",
+    "skuId": "1010050001",
+    "totalSeats": 100
+  },
+  {
+    "name": "Cloud Identity Free",
+    "productId": "101001",
+    "skuId": "1010010001",
+    "totalSeats": 50
+  },
+  {
+    "name": "Google Workspace Enterprise Plus",
+    "productId": "Google-Apps",
+    "skuId": "1010020027",
+    "totalSeats": 250
+  },
+  {
+    "name": "Google Workspace Enterprise Standard",
+    "productId": "Google-Apps",
+    "skuId": "1010020028",
+    "totalSeats": 100
+  }
+]
