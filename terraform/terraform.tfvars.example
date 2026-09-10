@@ -1,0 +1,6 @@
+project_id                    = "your-gcp-project-id"
+region                        = "us-central1"
+workspace_admin_email         = "admin@yourdomain.com"
+total_purchased_seats_premium = 50
+total_purchased_seats_free    = 50
+cron_schedule                 = "0 * * * *"
