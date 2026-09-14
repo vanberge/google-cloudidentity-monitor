@@ -3,7 +3,13 @@
 An enterprise-ready, serverless solution to monitor Google Cloud Identity and Google Workspace license assignments, compute available seats, and push custom telemetry to **Google Cloud Monitoring** for alerting and dashboards.
 
 ---
+## Disclaimer
 
+This migration tool is provided without any warranty, make sure you review the script code and test accordingly with your requirements.
+Always make sure you have backups and have **validated** recovery from those backups before running, especially in production environments.
+This cannot be stressed enough.
+
+---
 ## Architecture Overview
 
 ```mermaid
